@@ -1,0 +1,8 @@
+# 민감 파일
+.env
+bitapi.bat
+session_file.session
+
+# Python 캐시
+__pycache__/
+*.pyc
